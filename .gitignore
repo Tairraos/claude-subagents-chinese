@@ -1,6 +1,17 @@
-# gitignore template for LangChain products, e.g., LangGraph, LangSmith
-# website: https://www.langchain.com/
-# website: https://www.langchain.com/langgraph
-
-# LangGraph
-.langgraph_api/
+# gitignore 
+.trae/
+.kiro/
+.cursor/
+.vscode/
+.env
+node_modules/
+dist/
+*.js
+*.json
+*.css
+*.html
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
