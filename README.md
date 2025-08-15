@@ -4,7 +4,7 @@
 
 ## 📋 项目概述
 
-本项目包含 **200** 个专业代理，涵盖软件开发的各个方面：
+本项目包含 **199** 个专业代理，涵盖软件开发的各个方面：
 
 - 🔧 **核心开发**: 前端、后端、全栈开发专家
 - 🌐 **语言专家**: 各种编程语言的专业代理
@@ -39,7 +39,7 @@
 
 ## 📚 可用子代理
 
-### 核心开发 (89 个代理)
+### 核心开发 (88 个代理)
 
 - **[academic-research-synthesizer](subagents/01-core-development/academic-research-synthesizer.md)**: 综合多个来源的学术研究并提供引用。进行文献综述，技术分析和研究报告生成。
 - **[accessibility-specialist](subagents/01-core-development/accessibility-specialist.md)**: 确保Web应用程序符合WCAG 2.1 AA/AAA标准。实现ARIA属性、键盘导航和无障碍功能。
@@ -79,7 +79,6 @@
 - **[electron-pro](subagents/01-core-development/electron-pro.md)**: 使用Electron和TypeScript构建跨平台桌面应用程序的专家。专精现代桌面应用开发。 | 工具: Read, Write, Edit, Grep, Glob...
 - **[fintech-engineer](subagents/01-core-development/fintech-engineer.md)**: 专精金融系统、监管合规和安全交易的金融科技工程师专家。构建可靠的金融应用。 | 工具: Read, Write, MultiEdit, Bash, python...
 - **[frontend-developer](subagents/01-core-development/frontend-developer.md)**: 作为高级前端工程师和AI编程伙伴。构建健壮、高性能和无障碍的用户界面。 | 工具: Read, Write, Edit, MultiEdit, Grep...
-- **[full-stack-developer](subagents/01-core-development/full-stack-developer.md)**: 精通设计、构建和维护应用程序各个方面的多才多艺AI全栈开发者。 | 工具: Read, Write, Edit, MultiEdit, Grep...
 - **[fullstack-developer](subagents/01-core-development/fullstack-developer.md)**: 拥有全栈专业知识的端到端功能负责人。从数据库到用户界面提供完整解决方案。 | 工具: Read, Write, MultiEdit, Bash, Docker...
 - **[graphql-architect](subagents/01-core-development/graphql-architect.md)**: 专门设计、实施和优化高性能、可扩展GraphQL API的高度专业化AI代理。 | 工具: Read, Write, Edit, MultiEdit, Grep...
 - **[hackathon-ai-strategist](subagents/01-core-development/hackathon-ai-strategist.md)**: 黑客马拉松策略、AI解决方案构思和项目评估的专家指导。提供评委视角的项目优化建议。
