@@ -1,0 +1,93 @@
+# AI与机器学习
+
+人工智能、机器学习和自然语言处理代理
+
+## 包含的代理 (78个)
+
+- [academic-research-synthesizer](./academic-research-synthesizer.md) - 从多源学术资料中综合研究成果并提供引用。执行文献综述、技术调查和趋势分析，将学术论文与当前网络信息相结合。对于需要学术严谨性和全面分析的研究任务，请主动使用本代理。
+- [accessibility-specialist](./accessibility-specialist.md) - 确保Web应用程序符合WCAG 2.1 AA/AAA标准。实现ARIA属性、键盘导航和屏幕阅读器支持。在构建用户界面组件、表单或审查可访问性合规性时积极主动地使用。
+- [ai-engineer](./ai-engineer.md) - 一个高度专业化的AI代理，专注于设计、构建和优化基于LLM的应用程序、RAG系统和复杂提示管道。该代理实现向量搜索、编排智能体工作流，并与多种AI API集成。主动用于开发和增强LLM功能、聊天机器人或任何AI驱动的应用。
+- [blockchain-developer](./blockchain-developer.md) - 资深区块链开发者，擅长智能合约开发、去中心化应用（DApp）架构以及去中心化金融（DeFi）协议。精通Solidity语言、Web3集成以及区块链安全，专注于构建安全、高效节能且创新的去中心化应用程序。
+- [chaos-engineer](./chaos-engineer.md) - 专家级混沌工程师，专注于控制性故障注入、弹性测试和构建反脆弱系统。精通混沌实验、游戏日规划和持续弹性改进，专注于从故障中学习。
+- [comprehensive-researcher](./comprehensive-researcher.md) - 通过多种来源进行深入研究、交叉验证，并撰写结构化报告。将复杂主题拆解为研究问题，寻找权威资料，并综合信息。在需要引用和平衡分析的全面调查中积极使用本方法。
+- [customer-success-manager](./customer-success-manager.md) - 专家客户成功经理，专注于客户留存、增长和拥护。精通账户健康监控、战略性关系建立和推动客户价值实现，以最大化满意度和收入增长。
+- [database-optimizer](./database-optimizer.md) - 一款专业AI助手，用于全面分析和优化数据库性能。它识别并解决与SQL查询、索引、架构设计和基础设施相关的瓶颈。主动用于性能调优、架构优化和迁移规划。
+- [docusaurus-expert](./docusaurus-expert.md) - 配置和排除Docusaurus文档站点故障。专长于配置、主题定制、内容管理、侧边栏组织和构建问题。处理Docusaurus v2/v3站点时，特别是在docs_to_claude文件夹中工作时，请主动应用
+- [electron-pro](./electron-pro.md) - 一位使用Electron和TypeScript构建跨平台桌面应用程序的专家。擅长通过在桌面环境中充分利用网络技术的潜力，创建安全、高性能且易于维护的应用程序。专注于强大的进程间通信、原生系统集成以及无缝的用户体验。积极主动地用于开发新的Electron应用程序、重构现有应用程序或实现复杂的桌面特定功能。
+- [fintech-engineer](./fintech-engineer.md) - 专注金融系统、合规监管与安全交易的金融科技专家。精通银行对接集成、支付系统开发，构建符合严格监管要求的可扩展金融科技解决方案。
+- [graphql-architect](./graphql-architect.md) - 一个高度专业化的AI代理，用于设计、实现和优化高性能、可扩展且安全的GraphQL API。它擅长模式架构、解析器优化、联邦服务和通过订阅实现实时数据。可将此代理用于全新GraphQL项目、性能审计或重构现有GraphQL API。
+- [hackathon-ai-strategist](./hackathon-ai-strategist.md) - 关于黑客松策略、AI解决方案构思和项目评估的专业指导。提供评委视角的反馈，进行获胜AI概念的头脑风暴，并评估在紧张时间框架下的项目可行性。
+- [ios-developer](./ios-developer.md) - 使用Swift/SwiftUI开发原生iOS应用。精通UIKit/SwiftUI、Core Data、网络编程和应用生命周期。主动应用于iOS特定功能、App Store优化或原生iOS开发。
+- [iot-engineer](./iot-engineer.md) - 资深物联网工程师，专注于连接设备架构、边缘计算和物联网平台开发。精通物联网协议、设备管理和数据管道，致力于构建可扩展、安全可靠的物联网解决方案。
+- [knowledge-synthesizer](./knowledge-synthesizer.md) - 专家知识综合器，专注于从多智能体交互中提取洞见、识别模式并构建集体智能。精通跨智能体学习、最佳实践提取，以及通过知识管理实现持续系统改进。
+- [llm-architect](./llm-architect.md) - 专家级大型语言模型架构师，专注于大型语言模型的架构、部署和优化。精通LLM系统设计、微调策略和生产环境部署，专注于构建可扩展、高效且安全的LLM应用。
+- [llms-maintainer](./llms-maintainer.md) - 为AI爬虫导航生成和维护llms.txt路线图文件。在构建过程完成、内容变更或站点结构修改时进行更新。
+- [mcp-expert](./mcp-expert.md) - 创建模型上下文协议集成和服务器配置。在构建MCP服务器、配置集成或设计协议实现时，应主动使用。
+- [mcp-registry-navigator](./mcp-registry-navigator.md) - 你是一个MCP注册表导航器，专门用于从各种注册表中发现、评估和集成MCP服务器。适用于搜索具有特定功能的服务器、评估可信度、生成配置或发布到注册表时使用。
+- [nextjs-developer](./nextjs-developer.md) - 精通Next.js 14及以上版本的专业开发者，掌握App路由和全栈功能。专注于服务器组件、服务器操作、性能优化和生产环境部署，致力于构建快速、对SEO友好的应用程序。
+- [postgresql-pglite-pro](./postgresql-pglite-pro.md) - PostgreSQL和Pglite专家，专精于健壮的数据库架构、性能调优及浏览器内数据库解决方案的实施。擅长设计高效的数据模型，优化查询以提高速度和可靠性，并利用Pglite开发创新型网络应用。主动应用于数据库设计、查询优化和客户端数据库功能实施。
+- [rails-expert](./rails-expert.md) - 精通Rails 7+及现代约定的Rails专家。专长于约定优于配置、Hotwire/Turbo、Action Cable和快速应用开发，专注于构建优雅、可维护的Web应用程序。
+- [research-brief-generator](./research-brief-generator.md) - 将用户研究查询转化为结构化、可操作的研究简报，包含具体问题、关键词、来源偏好和成功标准。创建全面的研究计划，指导后续研究活动。
+- [research-coordinator](./research-coordinator.md) - 战略性规划并协调跨多个专业人员的复杂研究任务。积极主动地应用于需要多样化专业知识的多方面研究项目。
+- [sql-pro](./sql-pro.md) - 资深SQL开发人员，擅长复杂查询优化、数据库设计，以及针对PostgreSQL、MySQL、SQL Server和Oracle进行性能调优。精通高级SQL功能、索引策略和数据仓库模式。
+- [swift-expert](./swift-expert.md) - 专业的Swift开发者，专注于Swift 5.9+版本的async/await、SwiftUI和面向协议编程。精通Apple平台开发、服务端Swift以及现代并发编程，侧重于安全性和表达力。
+- [technical-researcher](./technical-researcher.md) - 分析代码仓库、技术文档和实现细节。主动使用于评估技术解决方案、审查API或评估代码质量。
+- [test-automator](./test-automator.md) - 测试自动化专员，负责设计、实施和维护全面的自动化测试策略。该职位专注于构建稳健的测试套件，建立和管理测试的CI/CD管道，并确保整个软件开发生命周期中的高质量和可靠性标准。积极主动地用于提高测试覆盖率，从头开始建立测试自动化，或优化测试流程。
+- [url-link-extractor](./url-link-extractor.md) - 查找、提取并编录网站代码库中的所有URL和链接。包括内部链接、外部链接、API端点和资源引用。
+- [cpp-engineer](./cpp-engineer.md) - 编写符合C++语言习惯的代码，运用现代特性、RAII、智能指针和STL算法。处理模板、移动语义和性能优化。主动用于C++重构、内存安全或复杂C++模式。
+- [python-expert](./python-expert.md) - 编写地道的Python代码，使用装饰器、生成器和异步/等待等高级特性。优化性能，实现设计模式，确保全面测试。积极使用PROACTIVELY进行Python重构、优化或处理复杂的Python特性。
+- [python-pro](./python-pro.md) - 专业的Python开发人员，专注于编写干净、高效且符合Python语言习惯的代码。利用高级Python特性，包括装饰器、生成器和异步/等待。专注于优化性能、实现成熟的设计模式并确保全面的测试覆盖率。积极主动地进行Python重构、优化或实现复杂功能。
+- [report-generator](./report-generator.md) - 您是报告生成专家，专门负责将综合研究成果转化为全面、结构良好的最终报告。您的专长在于从复杂数据中创建清晰的叙述，同时保持学术严谨性和适当的引用标准。
+- [rust-engineer](./rust-engineer.md) - 精通系统编程、内存安全和零成本抽象的Rust专家开发者。掌握关键任务应用的所有权模式、异步编程与性能优化技术。
+- [rust-expert](./rust-expert.md) - 编写具有所有权、生命周期和类型安全的地道 Rust 代码。实现并发系统、异步编程和内存安全抽象。在 Rust 开发、系统编程或性能关键代码中主动使用。
+- [task-decomposition-expert](./task-decomposition-expert.md) - 将复杂的用户目标分解为可执行的任务，并识别工具、代理和工作流的最优组合以实现系统集成。
+- [url-context-validator](./url-context-validator.md) - 验证URL的技术功能和上下文适当性。超越简单链接检查，分析内容相关性和一致性。
+- [machine-learning-engineer](./machine-learning-engineer.md) - 专家级机器学习工程师，专注于生产模型部署、服务基础设施和可扩展机器学习系统。精通模型优化、实时推理和边缘部署，注重大规模部署下的可靠性和性能。
+- [mlops-engineer](./mlops-engineer.md) - 专家级MLOps工程师，专注于机器学习基础设施、平台工程及机器学习系统的卓越运营。精通机器学习的持续集成/持续部署、模型版本控制及可扩展机器学习平台，专注于可靠性和自动化。
+- [academic-researcher](./academic-researcher.md) - 
+- [accessibility-tester](./accessibility-tester.md) - 专家级无障碍测试员，专注于WCAG合规性、包容性设计和通用访问。精通屏幕阅读器兼容性、键盘导航和辅助技术集成，致力于创建无障碍的数字体验。
+- [audio-quality-controller](./audio-quality-controller.md) - 分析、增强和标准化专业级内容的音频质量。标准化响度级别，消除背景噪音，修复伪影，并使用FFMPEG等行业标准工具生成包含前后指标的详细质量报告。
+- [code-reviewer-pro](./code-reviewer-pro.md) - 由AI驱动的高级工程主管，进行全面的代码审查。它分析代码的质量、安全性、可维护性和对最佳实践的遵循情况，提供清晰、可行且具有教育意义的反馈。在编写或修改代码后立即使用。
+- [ocr-quality-assurance](./ocr-quality-assurance.md) - 你是一名OCR质量保证专家，负责对OCR校正后的文本与原始图像源进行最终审核和验证。在视觉分析、文本比较、语法修正和markdown格式化之后，作为OCR流水线的最后一步使用。
+- [qa-expert](./qa-expert.md) - 一位高级AI质量保证(QA)专家，负责设计、实施和管理全面的QA流程，确保软件产品达到最高质量、可靠性和用户满意度标准。主动开发测试策略，执行详细测试计划，并向开发团队提供数据驱动的反馈。
+- [research-orchestrator](./research-orchestrator.md) - 您是研究协调员，一位负责使用开放深度研究方法管理综合研究项目的精英协调者。您擅长将复杂的研究查询分解为可管理的阶段，并协调专业代理人员提供全面、高质量的研究成果。
+- [typescript-pro](./typescript-pro.md) - 
+- [ux-researcher](./ux-researcher.md) - 专家级用户体验研究员，专注于用户洞察、可用性测试和数据驱动的设计决策。精通定性和定量研究方法，以发现用户需求、验证设计，并通过可行的洞察推动产品改进。
+- [agent-expert](./agent-expert.md) - 创建和优化专门的Claude代码代理。专长于代理设计、提示工程、领域建模以及Claude代码模板系统的最佳实践。在设计新代理或改进现有代理时积极主动。
+- [connection-agent](./connection-agent.md) - 分析知识管理系统中相关内容之间的有意义链接并提出建议。识别基于实体的连接、关键词重叠、孤立笔记，并为人工整理生成可操作的链接建议。
+- [data-scientist](./data-scientist.md) - 
+- [documentation-expert](./documentation-expert.md) - 一款高级AI软件文档专家，用于设计、创建和维护全面且用户友好的软件文档。主动用于为不同受众（包括开发人员、最终用户和利益相关者）开发清晰、一致且易于访问的文档。
+- [episode-orchestrator](./episode-orchestrator.md) - 通过按顺序协调多个专业代理来管理基于片段的工作流。检测完整的片段细节并分派到预定义的代理序列，或在路由前请求澄清。
+- [hyperledger-fabric-developer](./hyperledger-fabric-developer.md) - 使用Hyper
+- [markdown-syntax-formatter](./markdown-syntax-formatter.md) - 将具有视觉格式的文本转换为正确的 Markdown 语法，修复 Markdown 格式问题，并确保文档结构一致。处理列表、标题、代码块和强调标记。
+- [metadata-agent](./metadata-agent.md) - 处理保险库文件的前言标准化和元数据添加。确保元数据结构一致，生成标签，并维护创建/修改日期。
+- [ml-engineer](./ml-engineer.md) - 设计、构建和管理机器学习模型在生产环境中的端到端生命周期。专精于创建可扩展、可靠和自动化的ML系统。主动用于涉及ML模型部署、监控和维护的任务。
+- [moc-agent](./moc-agent.md) - 
+- [nlp-engineer](./nlp-engineer.md) - 专家级NLP工程师，专注于自然语言处理、理解和生成。精通Transformer模型、文本处理流水线和生产级NLP系统，专注于多语言支持和实时性能。
+- [ocr-grammar-fixer](./ocr-grammar-fixer.md) - 您是一位OCR语法修复专家，专门清理通过OCR处理的包含识别错误、间距问题或语法问题的文本。适用于校正OCR处理的营销文案、商业文档或带有典型识别伪影的扫描文本。
+- [payment-integration](./payment-integration.md) - 专业的支付集成专家，精通支付网关集成、PCI合规和金融交易处理。专注于安全支付流程、多货币支持和欺诈预防，重点关注可靠性、合规性和无缝用户体验。
+- [podcast-content-analyzer](./podcast-content-analyzer.md) - 分析播客文字记录，识别吸引人的片段和病毒式传播时刻。使用PROACTIVELY进行内容优化、章节创建或社交媒体片段选择。
+- [podcast-metadata-specialist](./podcast-metadata-specialist.md) - 你是一名播客元数据专家，负责为播客集生成全面的元数据、节目说明、章节标记和平台特定描述。用于创建SEO优化标题、时间戳、社交媒体帖子和播客平台的格式化描述。
+- [podcast-transcriber](./podcast-transcriber.md) - 你是一名专业的播客转录员，专门从音频/视频文件中提取带有精确时间戳的准确转录文本。适用于转换媒体文件进行转录、生成带时间戳的段落、识别说话者以及生成结构化的转录数据。
+- [podcast-trend-scout](./podcast-trend-scout.md) - 你是一名播客趋势侦察员，负责为播客节目识别新兴技术话题和新闻。适用于为科技播客规划内容、研究当前趋势、寻找最新发展或提出与技术重点领域相关的及时话题。
+- [project-supervisor-orchestrator](./project-supervisor-orchestrator.md) - 你是一个项目监督编排器，负责管理复杂的多步骤工作流，按顺序协调多个专业代理。适用于编排代理管道、检测不完整信息或管理复杂的多代理流程。
+- [prompt-engineer](./prompt-engineer.md) - 一位精通架构和优化复杂LLM交互的提示工程大师。用于设计高级AI系统，将模型性能推向极限，创建稳健、安全、可靠的代理工作流程。在各种高级提示技术、模型特定细节和道德AI设计方面具有专业知识。
+- [query-clarifier](./query-clarifier.md) - 分析研究查询的清晰度，并确定是否需要澄清。在研究工作流程开始阶段主动使用，确保查询具体且可执行。
+- [research-synthesizer](./research-synthesizer.md) - 整合并综合多个研究来源的发现，形成统一分析。适用于合并不同观点、识别模式以及从复杂研究中创建结构化洞见。
+- [seo-podcast-optimizer](./seo-podcast-optimizer.md) - 您是一位专注于科技播客的SEO顾问。您的专长在于制作搜索优化内容，既能平衡关键词效果，又能创作引人入胜、值得点击的文案，准确呈现播客内容，以实现最大搜索可见度。
+- [tag-agent](./tag-agent.md) - 为知识管理系统标准化并分层组织标签分类法。维护清晰、一致的标签结构，并合并重复项。
+- [text-comparison-validator](./text-comparison-validator.md) - 将图像中提取的文本与现有的 Markdown 文件进行比较，以确保准确性和一致性。检测差异、错误和格式不一致问题。
+- [timestamp-precision-specialist](./timestamp-precision-specialist.md) - 从音频/视频文件中提取帧级精确时间戳，用于播客编辑。识别精确剪切点，检测语音边界，并确保过渡平滑。
+- [twitter-ai-influencer-manager](./twitter-ai-influencer-manager.md) - 
+- [visual-analysis-ocr](./visual-analysis-ocr.md) - 从PNG图像中提取并分析文本内容，同时保留原始格式和结构。将视觉层次结构转换为markdown格式。
+- [flutter-expert](./flutter-expert.md) - Flutter专家，精通Flutter 3+及现代架构模式。专注于跨平台开发、自定义动画、原生集成和性能优化，致力于创建美观且具有原生性能的应用程序。
+- [game-developer](./game-developer.md) - 专业游戏开发者，专注于游戏引擎编程、图形优化和多人游戏系统。精通游戏设计模式、性能优化和跨平台开发，专注于创造引人入胜、高性能的游戏体验。
+
+## 关键技术
+
+- ai
+- ml
+- nlp
+- llm
+- machine-learning
+- neural
