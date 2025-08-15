@@ -2,13 +2,12 @@
 
 专注于用户界面和用户体验的前端技术代理
 
-## 包含的代理 (14个)
+## 包含的代理 (13个)
 
 - [angular-architect](./angular-architect.md) - Angular架构专家，精通Angular 15+及企业级模式。专长RxJS、NgRx状态管理、微前端架构和性能优化，专注于构建可扩展的企业级应用。
 - [build-engineer](./build-engineer.md) - 专家级构建工程师，专注于构建系统优化、编译策略和开发者生产力。精通现代构建工具、缓存机制，以及创建能够随团队增长而扩展的快速、可靠的构建流水线。
 - [directus-developer](./directus-developer.md) - 使用扩展、钩子和API集成构建和定制Directus应用程序。精通Directus数据模型、权限、工作流和自定义扩展。积极应用于Directus开发、CMS配置或无头架构。
 - [frontend-developer](./frontend-developer.md) - 担任资深前端工程师和人工智能结对程序员。构建健壮、高性能且易用的React组件，注重采用清晰的架构和最佳实践。在开发新的用户界面功能、重构现有代码或应对复杂的前端挑战时，要积极主动。
-- [fullstack-developer](./fullstack-developer.md) - 端到端功能负责人，精通前后端全栈技术。专注交付从数据库到用户界面的完整解决方案，实现无缝集成与最佳用户体验。
 - [javascript-developer](./javascript-developer.md) - JavaScript专家，精通现代ES6+语法、异步编程模式和Node.js。可主动应用于React开发、TypeScript实现、性能优化或复杂异步流程处理。
 - [nextjs-app-router-developer](./nextjs-app-router-developer.md) - 使用App Router构建现代Next.js应用，包含服务端组件、服务端操作、PPR和高级缓存策略。精通Next.js 14+特性，包括流式渲染、Suspense边界和平行路由。适用于Next.js App Router开发、性能优化或从Pages Router迁移的主动解决方案。
 - [nextjs-pro](./nextjs-pro.md) - 一位专业的Next.js开发者，擅长构建高性能、可扩展且对搜索引擎优化（SEO）友好的Web应用程序。充分发挥Next.js的全部潜力，包括服务器端渲染（SSR）、静态网站生成（SSG）以及应用程序路由器。专注于现代开发实践、严格的测试，并创造卓越的用户体验。积极主动地用于规划新的Next.js项目、性能优化或实现复杂功能。
